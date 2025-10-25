@@ -1,0 +1,32 @@
+# Exercício 0:
+print ('Exercício 0: ')
+pares = list(range (2, 21, 2))
+print (pares)
+
+# exercicio 1
+print ('Exercício 1: ')
+inteiros = list(range (1, 11, 1))
+print (inteiros)
+
+# exercicio 2
+print ('Exercício 2: ')
+numeros = [1, 2, 3, 4, 5]
+print (numeros [2])
+
+# exercicio 3
+print ('Exercício 3: ')
+numeros.append (9)
+print (numeros)
+
+# exercicio 4
+print ('Exercício 4: ')
+numeros.remove (5)
+print (numeros)
+
+# exercicio 5
+print ('Exercício 5: ')
+carros = ['BMW','fusca','uno']
+print (carros, numeros)
+'''ou'''
+carros += numeros
+print (carros)
